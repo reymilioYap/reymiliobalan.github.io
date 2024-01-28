@@ -10,4 +10,6 @@
 body {
   margin: 0;
   text-transform: none;
+  background-color: #000;
+  color: #fff;
 }
